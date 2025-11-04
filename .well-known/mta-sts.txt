@@ -1,4 +1,4 @@
 version: STSv1
 mode: enforce
-mx: c365-biz.mail.protection.outlook.com
-max_age: 2419200
+mx: c365-biz.p-v1.mx.microsoft
+max_age: 2419201
