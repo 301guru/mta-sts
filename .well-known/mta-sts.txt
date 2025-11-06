@@ -1,4 +1,4 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: c365-biz.p-v1.mx.microsoft
-max_age: 2419201
+max_age: 600
