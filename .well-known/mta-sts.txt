@@ -1,4 +1,5 @@
 version: STSv1
 mode: none
 mx: c365-biz.p-v1.mx.microsoft
+mx: c365-biz.mail.protection.outlook.com
 max_age: 600
